@@ -1,4 +1,3 @@
-<p>Hi.</p>
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=ph-onix&theme=calm&border_radius=0" alt="GitHub Streak" />
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ph-onix&theme=dark&hide_border=true&card_width=550" alt="GitHub Streak" /></a>
 </div>
